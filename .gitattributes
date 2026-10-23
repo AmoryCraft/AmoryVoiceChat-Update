@@ -1,0 +1,3 @@
+# the updater checks size and SHA-256 of these files: git must never touch their bytes
+*.jar binary
+version.json text eol=lf
