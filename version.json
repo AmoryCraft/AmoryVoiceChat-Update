@@ -2,15 +2,15 @@
   "schema": 1,
   "minecraft": "26.3",
   "fabric": {
-    "version": "0.7.8",
-    "file": "mods/amoryvoicechat-client-fabric-0.7.8.jar",
-    "size": 974950,
-    "sha256": "151315236eed95f8183048ae33b7541f95f9db91b492e7dbfbce4eb7e071a0cd"
+    "version": "0.7.9",
+    "file": "mods/amoryvoicechat-client-fabric-0.7.9.jar",
+    "size": 979629,
+    "sha256": "174fd21bdd9aa7da95e16a993fad6dbf77211a17a9245316d94bad30c8932898"
   },
   "forge": {
-    "version": "0.7.8",
-    "file": "mods/amoryvoicechat-client-forge-0.7.8.jar",
-    "size": 1388337,
-    "sha256": "98437d76bbf26e4c4461e5d8c9c7566e09a3948e902518c2057d161cf4eb781a"
+    "version": "0.7.9",
+    "file": "mods/amoryvoicechat-client-forge-0.7.9.jar",
+    "size": 1393062,
+    "sha256": "3174f1c9dd642c3df62f8777b5ad29118aed112cfd2a694094309599f9e023cb"
   }
 }
